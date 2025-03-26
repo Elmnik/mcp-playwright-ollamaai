@@ -12,7 +12,10 @@ A minimal project demonstrating browser automation testing with Playwright and l
 
 ## 📦 Prerequisites
 
-1. **Ollama Installed**:
-   ```bash
-   curl -fsSL https://ollama.com/install.sh | sh
+1. **Ollama Installation**:
+ 
+   curl -fsSL https://ollama.com/install.sh | sh 
+
+2. **Ollama Lightest Model**:
+   
    ollama pull tinyllama
