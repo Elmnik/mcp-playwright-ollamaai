@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ai/*": ["./ai/*"],
+      "@mcp/*": ["./mcp/*"]
+    }
+  }
+}
